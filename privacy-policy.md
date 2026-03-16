@@ -1,80 +1,32 @@
 Privacy Policy
-
-Last updated: 12/12/2025
-
+Last updated: 16/03/2026
 Thank you for using our app. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information.
-
 1. Information We Collect
-
-Our app is designed to function without requiring personal information. We do not collect the following unless explicitly stated:
-
-No name
-
-No phone number
-
-No location data
-
-No contacts
-
-No photos or media files
-
-No device identifiers
-
-If optional features are added in the future (such as cloud sync or account login), we will update this policy.
-
-2. Optional Data (Non-personal)
-
-We may collect non-personal usage analytics to help improve the app, such as:
-
-App performance
-
-Crash logs
-
-Feature usage
-
-This data cannot identify you.
-
-3. How We Use Data
-
-Any collected data is used only to:
-
-Improve app stability
-
-Improve user experience
-
-Fix bugs
-
-Add new features
-
-We never sell or share your information.
-
-4. Children’s Privacy
-
-Our app does not collect personal data from anyone, including children under 13.
-If a parent believes their child provided data, they may contact us and we will delete it.
-
-5. Third-Party Services
-
-Our app may use third-party tools such as:
-
-Firebase Analytics
-
-Crashlytics
-
-These services may receive anonymized technical data.
-Please review their privacy policies if used.
-
-6. Data Security
-
-We take reasonable measures to protect your information and keep your data secure.
-
-7. Changes to This Policy
-
-We may update this policy from time to time.
-The latest version will always be available at this link.
-
-8. Contact Us
-
+Our app is designed to function without requiring personal information. We do not collect or store the following personal information on our servers:
+• Name • Phone number • Location data • Contacts • Photos or media files • Device identifiers
+The app can be used without creating an account.
+1. Optional Cloud Backup (Google Drive)
+Our app provides an optional feature that allows users to back up and restore their app data using their personal Google Drive account.
+When this feature is used:
+• Backup data is uploaded directly to the user’s own Google Drive account. • The data is stored in a private application folder accessible only by this app. • The developer does not have access to the user’s Google Drive files. • Backup and restore actions occur only after the user grants permission through Google Sign-In.
+This feature uses Google services and is subject to Google's privacy policies.
+1. Optional Data (Non-personal)
+We may collect limited non-personal information to improve the app, such as:
+• App performance metrics • Crash logs • Feature usage statistics
+This information does not identify individual users.
+1. How We Use Data
+Any collected or processed data is used only to:
+• Improve app stability • Improve user experience • Fix bugs • Enable optional backup and restore functionality
+We do not sell, rent, or share personal information with third parties.
+1. Third-Party Services
+Our app may use trusted third-party services, such as: • Google Sign-In • Google Drive API (for optional user backups)
+These services may process anonymised technical information in accordance with their own privacy policies.
+1. Data Security
+We take reasonable measures to protect user information. Data transfers between the app and external services are encrypted using secure HTTPS connections.
+1. Children’s Privacy
+Our app does not knowingly collect personal information from children under the age of 13. If a parent or guardian believes a child has provided personal data, please contact us and we will take appropriate action.
+1. Changes to This Policy
+We may update this Privacy Policy from time to time. The latest version will always be available through the app or the official website.
+1. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-Email: g00gle.me.once@gmail.com
+Email: hello@rupeesmile.com
